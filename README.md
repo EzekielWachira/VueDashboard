@@ -1,4 +1,4 @@
-# medical
+# VueDashboard
 
 ## Project setup
 ```
